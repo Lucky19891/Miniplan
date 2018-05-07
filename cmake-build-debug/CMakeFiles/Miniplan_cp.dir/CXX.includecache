@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lukas/CLionProjects/Miniplan cp/Datum.cpp
+iostream
+-
+ctime
+-
+Datum.h
+C:/Users/Lukas/CLionProjects/Miniplan cp/Datum.h
+
+C:/Users/Lukas/CLionProjects/Miniplan cp/Datum.h
+
+C:/Users/Lukas/CLionProjects/Miniplan cp/Dienst.cpp
+Datum.h
+C:/Users/Lukas/CLionProjects/Miniplan cp/Datum.h
+Dienst.h
+C:/Users/Lukas/CLionProjects/Miniplan cp/Dienst.h
+
+C:/Users/Lukas/CLionProjects/Miniplan cp/Dienst.h
+Datum.h
+C:/Users/Lukas/CLionProjects/Miniplan cp/Datum.h
+
+C:/Users/Lukas/CLionProjects/Miniplan cp/Ministrant.cpp
+Ministrant.h
+C:/Users/Lukas/CLionProjects/Miniplan cp/Ministrant.h
+
+C:/Users/Lukas/CLionProjects/Miniplan cp/Ministrant.h
+
+C:/Users/Lukas/CLionProjects/Miniplan cp/main.cpp
+iostream
+-
+time.h
+-
+Datum.h
+C:/Users/Lukas/CLionProjects/Miniplan cp/Datum.h
+Dienst.h
+C:/Users/Lukas/CLionProjects/Miniplan cp/Dienst.h
+
